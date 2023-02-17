@@ -2,8 +2,11 @@
 segundo cambio en el fichero1
 tercer cambio en el fichero. Este lo subimos
 cuarto cambio que quiero subir
+<<<<<<< main
 
 este cambio sí irá en el stage y lo desharé
 
 
 cambio realizado desde EClipse
+=======
+>>>>>>> a3c0a32 Vuelvo a meter el cambio del fichero1
