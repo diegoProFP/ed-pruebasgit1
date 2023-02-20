@@ -2,3 +2,5 @@
 segundo cambio en el fichero1
 tercer cambio en el fichero. Este lo subimos
 cuarto cambio que quiero subir
+
+este cambio sí irá en el stage y lo desharé
