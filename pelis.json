@@ -1,0 +1,17 @@
+[
+    {
+        "titulo": "Regreso al Futuro",
+        "genero": "Ciencia-ficción",
+        "imagen_portada": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.vintagemovieposters.co.uk%2Fwp-content%2Fuploads%2F2020%2F12%2FIMG_1021-636x946.jpeg&f=1&nofb=1&ipt=2eb84bafe0764ab895dfb7e8f0c952d6690ace1048c9e7f6d6605c95388934aa&ipo=images"
+    },
+    {
+        "titulo": "Forrest Gump",
+        "genero": "Drama",
+        "imagen_portada": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F1057%2F4964%2Fproducts%2Fforrest-gump-vintage-movie-poster-original-1-sheet-27x41-1350.jpg%3Fv%3D1600318970&f=1&nofb=1&ipt=b2229f0efd360e8dc14acd65ea8ff8556af99a99bbd07685ca9b85afa43a96da&ipo=images"
+    },
+    {
+        "titulo": "Memento",
+        "genero": "Thriller",
+        "imagen_portada": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F13movies.files.wordpress.com%2F2014%2F01%2Fmemento-poster.jpg&f=1&nofb=1&ipt=02f3beb20fc401ded3b0d0b35dec244813c02fd002082091972723b8d123a40e&ipo=images"
+    }
+]
