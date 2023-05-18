@@ -1,4 +1,7 @@
 {
     "nombre": "Diego",
-    "apellidos": "Di Gionantonio"
+    "apellidos": "Di Gionantonio",
+    "provincia": "Madrid",
+    "localidad": "Getafe",
+    "intereses": ["escalada", "musica", "programacion"]
 }
