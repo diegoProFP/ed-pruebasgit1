@@ -17,21 +17,25 @@
         "Cierre: Pull on, Ajustable, Hebilla"
     ],
     "modelos": [
-        {
+      {
             "nombre": "K56-Azul marino",
-            "urlImagen": "https://m.media-amazon.com/images/I/61vZbauBGsS._AC_SX679._SX._UX._SY._UY_.jpg"
+            "urlImagen": "https://m.media-amazon.com/images/I/41TTihwBNPS._SX38_SY50_CR,0,0,38,50_.jpg"
         },
         {
-            "nombre": "K98 - Verde militar",
+            "nombre": "K56-Caqui",
+            "urlImagen": "https://m.media-amazon.com/images/I/41-HYOmUmzS._SX38_SY50_CR,0,0,38,50_.jpg"
+        },
+        {
+            "nombre": "K56-Gris",
             "urlImagen": "https://m.media-amazon.com/images/I/41xSe6gk53S._SX38_SY50_CR,0,0,38,50_.jpg"
         },
         {
-            "nombre": "K99-Gris",
-            "urlImagen": "https://m.media-amazon.com/images/I/71ncXuBuwNL._AC_SX679._SX._UX._SY._UY_.jpg"
+            "nombre": "K56-Negro",
+            "urlImagen": "https://m.media-amazon.com/images/I/41DlX7zno1S._SX38_SY50_CR,0,0,38,50_.jpg"
         },
         {
-            "nombre": "K98-Camello",
-            "urlImagen": "https://m.media-amazon.com/images/I/71fkj+-2bFL._AC_SX679._SX._UX._SY._UY_.jpg"
+            "nombre": "K56-Verde Militar",
+            "urlImagen": "https://m.media-amazon.com/images/I/41VKeY-htjS._SX38_SY50_CR,0,0,38,50_.jpg"
         }
     ]
 }
