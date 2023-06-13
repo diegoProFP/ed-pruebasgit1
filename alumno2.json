@@ -1,0 +1,12 @@
+{
+    "nombre": "María",
+    "datosPersonales": {
+        "fechaNacimiento": "12/06/1995",
+        "ciudad": "Barcelona",
+        "email": "maria.ma1@educa.barcelona.org",
+        "telefono": "678912345",
+        "linkedin": "https://www.linkedin.com/in/random-random-58aa37134/"
+    },
+    "imagenPerfil": "https://images.generated.photos/2ah6iFDPpdb_UoR0TO0fXeqEUlv9EV6V4ZAvSdQrTLg/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NjQ4MzY3LmpwZw.jpg",
+    "perfilProfesional": "Soy una apasionada estudiante de informática recién graduada con un espíritu inquieto y una mentalidad CREATIVA. Durante mi formación académica, he desarrollado un sólido conocimiento en diversas áreas de la informática, incluyendo programación, inteligencia artificial y desarrollo web. Me apasiona la resolución de problemas complejos y la creación de soluciones innovadoras. Poseo una capacidad excepcional para analizar y comprender las necesidades de los usuarios y transformarlas en productos y servicios tecnológicos de calidad. Además, tengo habilidades destacadas en el trabajo en equipo, la comunicación efectiva y la gestión de proyectos. Estoy entusiasmado por unirme a un equipo dinámico donde pueda seguir aprendiendo, creciendo y contribuyendo con mi creatividad y conocimientos para impulsar la innovación en el mundo de la tecnología"
+}

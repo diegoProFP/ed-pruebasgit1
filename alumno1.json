@@ -1,0 +1,12 @@
+{
+    "nombre": "Diego",
+    "datosPersonales": {
+        "fechaNacimiento": "05/11/1999",
+        "ciudad": "Madrid",
+        "email": "diego.di1@educa.madrid.org",
+        "telefono": "699985470",
+        "linkedin": "https://www.linkedin.com/in/random-random-a3357753/"
+    },
+    "imagenPerfil": "https://images.generated.photos/vtrrFTu6JT6eIBsF4KLcUzE0e4H0Ot8JtyncppG3Nbk/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/OTY1MjE3LmpwZw.jpg",
+    "perfilProfesional": "Soy un estudiante recién graduado de informática con una gran pasión por la tecnología y un deseo ardiente de comenzar mi carrera profesional en el campo. Durante mi formación académica, adquirí un sólido conocimiento en diversas áreas de la informática, incluyendo programación, bases de datos, redes, seguridad informática y desarrollo de software. Poseo habilidades destacadas en la resolución de problemas y un enfoque analítico para abordar desafíos técnicos. Mi capacidad para trabajar en equipo y comunicarme efectivamente me permite colaborar de manera efectiva con profesionales de diferentes disciplinas y contribuir a proyectos de manera conjunta."
+}
