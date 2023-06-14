@@ -4,5 +4,15 @@
     "provincia": "Madrid",
     "localidad": "Parla",
     "email": "diego.di1@educa.madrid.org",
-    "intereses": ["escalada", "musica", "programacion"]
+    "intereses": ["escalada", "musica", "programacion"],
+    "nacionalidades": [
+        {
+            "pais": "España",
+            "vigencia": "2030"
+        },
+        {
+            "pais": "Argentina",
+            "vigencia": "2050"
+        }
+        ]
 }
